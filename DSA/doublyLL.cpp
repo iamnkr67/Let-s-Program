@@ -106,11 +106,8 @@ int main()
     head = insertAtMid(head, 41);
     print(head, outfile);
 
-    // Open the file in append mode
+    // Open the file in append mode 
     outfile << "Head of DLL: " << head->data;
-    outfile << endl
-            << "Size of DLL: "
-            << sizeOfDLL(head);
     outfile.close();
     return 0;
 }
