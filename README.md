@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamnkr67/Let-s-Program/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/iamnkr67/Let-s-Program/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/iamnkr67/Let-s-Program/tree/master/0147-insertion-sort-list) |
+| [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/iamnkr67/Let-s-Program/tree/master/0055-jump-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
