@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamnkr67/Let-s-Program/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
