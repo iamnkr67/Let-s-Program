@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamnkr67/Let-s-Program/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/iamnkr67/Let-s-Program/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/iamnkr67/Let-s-Program/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/iamnkr67/Let-s-Program/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamnkr67/Let-s-Program/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/iamnkr67/Let-s-Program/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/iamnkr67/Let-s-Program/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/iamnkr67/Let-s-Program/tree/master/0164-maximum-gap) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/iamnkr67/Let-s-Program/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
