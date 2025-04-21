@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/iamnkr67/Let-s-Program/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/iamnkr67/Let-s-Program/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/iamnkr67/Let-s-Program/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/iamnkr67/Let-s-Program/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/iamnkr67/Let-s-Program/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/iamnkr67/Let-s-Program/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/iamnkr67/Let-s-Program/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/iamnkr67/Let-s-Program/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
