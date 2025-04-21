@@ -17,14 +17,13 @@ public:
             fast = fast->next->next;
 
             if (slow == fast) {
-                ListNode* i = head;
-
-                while (i != slow) {
-                    i = i->next;
-                    slow = slow->next;
+                slow = head;
+                while (fast != slow) {
+                   fast = fast->next;
+                   slow = slow->next;
                 }
 
-                return i;
+                return slow;
             }
         }
         return nullptr;
