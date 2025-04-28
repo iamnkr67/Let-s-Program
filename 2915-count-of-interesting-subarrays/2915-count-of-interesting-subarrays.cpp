@@ -7,14 +7,10 @@ public:
         int prefix = 0;
 
         for(int i : nums) {
-            if(i%modulo == k) {
-                prefix  = (prefix+1)%modulo;
-            } else {
-                prefix = prefix%modulo;
-            }
+           prefix += i%modulo == k;
             int target = (prefix - k + modulo)%modulo;
             res += fmp[target];
-            fmp[prefix]++;
+            fmp[prefix%modulo]++;
         }
 
         return res;
