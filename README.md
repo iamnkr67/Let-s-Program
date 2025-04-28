@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/iamnkr67/Let-s-Program/tree/master/0164-maximum-gap) |
 | [0503-next-greater-element-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0503-next-greater-element-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamnkr67/Let-s-Program/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
