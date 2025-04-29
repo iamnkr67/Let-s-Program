@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0503-next-greater-element-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/iamnkr67/Let-s-Program/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamnkr67/Let-s-Program/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/iamnkr67/Let-s-Program/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sorting
 |  |
 | ------- |
