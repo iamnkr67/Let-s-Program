@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/iamnkr67/Let-s-Program/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0503-next-greater-element-ii) |
+| [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/iamnkr67/Let-s-Program/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamnkr67/Let-s-Program/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -127,12 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
