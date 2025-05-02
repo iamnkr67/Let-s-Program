@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/iamnkr67/Let-s-Program/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/iamnkr67/Let-s-Program/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/iamnkr67/Let-s-Program/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0503-next-greater-element-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamnkr67/Let-s-Program/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
