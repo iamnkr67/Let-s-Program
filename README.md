@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/iamnkr67/Let-s-Program/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0503-next-greater-element-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/iamnkr67/Let-s-Program/tree/master/1019-squares-of-a-sorted-array) |
 | [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamnkr67/Let-s-Program/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamnkr67/Let-s-Program/tree/master/2915-count-of-interesting-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/iamnkr67/Let-s-Program/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/iamnkr67/Let-s-Program/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/iamnkr67/Let-s-Program/tree/master/0451-sort-characters-by-frequency) |
+| [1019-squares-of-a-sorted-array](https://github.com/iamnkr67/Let-s-Program/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/iamnkr67/Let-s-Program/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/iamnkr67/Let-s-Program/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/iamnkr67/Let-s-Program/tree/master/0142-linked-list-cycle-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/iamnkr67/Let-s-Program/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
