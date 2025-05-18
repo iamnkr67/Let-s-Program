@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/iamnkr67/Let-s-Program/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/iamnkr67/Let-s-Program/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/iamnkr67/Let-s-Program/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/iamnkr67/Let-s-Program/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/iamnkr67/Let-s-Program/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/iamnkr67/Let-s-Program/tree/master/0055-jump-game) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/iamnkr67/Let-s-Program/tree/master/1380-number-of-closed-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/iamnkr67/Let-s-Program/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
